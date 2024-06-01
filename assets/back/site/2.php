@@ -1,1 +1,1 @@
-<h2>deneme<h2>
+<h1>deneme<h1>
